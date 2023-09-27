@@ -5,14 +5,14 @@ Este proyecto consiste en crear un programa en ECLIPSE que permita la usuario ca
 Se utilizan condicionales, ciclos y funciones para lograrlo.
 
 # Empezando
-Empezemos descargando ECLIPSE en el ordenador los pasos detallados te los dejamos en el modulo de INSTALACIÓN 
-El fin de este codigo es crear un programa en Java que permita al usuario calcular el factorial de un número entero positivo 
-Crear una función llamada CALCULAR FACTORIAL en la que tome un número entero positivo como parámetro y devuelva su factorial
-Utilizamos un bucle en el programa principal para permitir que el progranma realice múltiples calculos factoriales
-Ingresamos un número entero positivo y garantizanoms que la entrada sea válida 
-Utilizamos la función CALCULAR FACTORIAL para calcular el factorial del número ingresado
-Mostramos el resultado del calculo realizado en pantalla 
-Realizamos una pregunta al usuario si desea calcular el factorial de otro número 
++Empezemos descargando ECLIPSE en el ordenador los pasos detallados te los dejamos en el modulo de INSTALACIÓN 
++El fin de este codigo es crear un programa en Java que permita al usuario calcular el factorial de un número entero positivo 
++Crear una función llamada CALCULAR FACTORIAL en la que tome un número entero positivo como parámetro y devuelva su factorial
++Utilizamos un bucle en el programa principal para permitir que el progranma realice múltiples calculos factoriales
++Ingresamos un número entero positivo y garantizanoms que la entrada sea válida 
++Utilizamos la función CALCULAR FACTORIAL para calcular el factorial del número ingresado
++Mostramos el resultado del calculo realizado en pantalla 
++Realizamos una pregunta al usuario si desea calcular el factorial de otro número 
 
 # Requisitos previos
 Debe contar con ECLIPSE en su ordenador 
