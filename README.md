@@ -11,7 +11,7 @@ Se utilizan condicionales, ciclos y funciones para lograrlo.
 +Utilizamos un bucle en el programa principal para permitir que el progranma realice múltiples calculos factoriales
 +Ingresamos un número entero positivo y garantizanoms que la entrada sea válida 
 +Utilizamos la función CALCULAR FACTORIAL para calcular el factorial del número ingresado
-+Mostramos el resultado del calculo realizado en pantalla 
++Mostramos el resultado del calculo realizado en pantalla  
 +Realizamos una pregunta al usuario si desea calcular el factorial de otro número 
 
 # Requisitos previos
