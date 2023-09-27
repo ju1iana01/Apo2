@@ -1,9 +1,9 @@
 
 <<<<<<< HEAD
-# Proyecto de actualización de codigo en Java
+# PROYECTO APO 
 La finalidad de esta práctica es actualizar la información de todo el proyecto de forma colaborativa
 =======
-![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
+ ![Logo eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2560px-Eclipse-Luna-Logo.svg.png)
 
 # Titulo del Proyecto
 >>>>>>> 5b5a252034dade8a8225013d5c890bd6dcfc6949
