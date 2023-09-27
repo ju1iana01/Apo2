@@ -1,13 +1,8 @@
-
-<<<<<<< HEAD
-# PROYECTO APO 
-La finalidad de esta práctica es actualizar la información de todo el proyecto de forma colaborativa 
-=======
  ![Logo eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2560px-Eclipse-Luna-Logo.svg.png)
 
-# Titulo del Proyecto
->>>>>>> 5b5a252034dade8a8225013d5c890bd6dcfc6949
-
+# APO 2: CÁLCULO FACTORIAL
+Este proyecto consiste en crear un programa en ECLIPSE que permita la usuario calcular el factorial de un númeroentero positivo.
+Se utilizan condicionales, ciclos y funciones para lograrlo.
 
 ## Empezando
 
