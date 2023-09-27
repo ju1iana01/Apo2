@@ -76,7 +76,9 @@ Usamos Git para el control de versiones. Para conocer las versiones disponibles,
 
 ## Autores
 
-* *Gustavo Sánchez* 
+Valeria Guerrero 
+Juliana Muñoz 
+Maria Vallejo
 
 
 ## Licencia
