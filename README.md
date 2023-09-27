@@ -1,7 +1,7 @@
 
 <<<<<<< HEAD
 # PROYECTO APO 
-La finalidad de esta práctica es actualizar la información de todo el proyecto de forma colaborativa
+La finalidad de esta práctica es actualizar la información de todo el proyecto de forma colaborativa 
 =======
  ![Logo eclipse](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/2560px-Eclipse-Luna-Logo.svg.png)
 
